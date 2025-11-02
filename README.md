@@ -1,3 +1,4 @@
+<img align="center" src="https://imgur.com/a/bLtb2lQ"/>
 <img align="center" src="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true"/>
 
 ---
@@ -11,17 +12,9 @@ Je suis **HORROR-DWB**
 
 ### ⚙️ Technologies que j’utilise
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 ---
-
-### 📊 Mes stats
-![Discord](https://discord.gg/3Zqau2MNf9)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HORROR-DWB&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

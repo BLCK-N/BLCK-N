@@ -1,16 +1,23 @@
-## Hi there 👋
+<img align="center" src="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true"/>
 
-<!--
-**HOROR-DWB/HOROR-DWB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 Bienvenue sur mon profil !
+Je suis **HORROR-DWB**  
+💻 Développeur passionné par la création des scripts et projets originaux  
+🎮 J’aime l’animation, le code et les défis techniques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Technologies que j’utilise
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+
+---
+
+### 📊 Mes stats
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=HORROR-DWB.HORROR-DWB)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HORROR-DWB&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

@@ -5,7 +5,7 @@
 ---
 
 ### 👋 Bienvenue sur mon profil !
-Je suis **BLC-N**  
+Je suis **BLCK-N**  
 💻 Développeur passionné par la création des scripts et projets originaux  
 🎮 J’aime l’animation, le code et les défis techniques
 

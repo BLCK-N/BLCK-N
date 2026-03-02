@@ -1,4 +1,4 @@
-### · · ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴘʀᴏꜰɪʟᴇ 
+### ·  ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴘʀᴏꜰɪʟᴇ 
 <img align="center" src="https://i.imgur.com/Bfb8vrC.png"/>
 𖣂
 <img align="center" src="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true"/>

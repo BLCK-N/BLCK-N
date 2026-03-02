@@ -26,6 +26,6 @@
 ## Contributes / Commits.
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-## Sponsors image
-[![sponsors](https://i.imgur.com/heshqZ2.png)](https://github.com/sponsors/aiko-chan-ai)
+## Don't play with me !
+[![sponsors](https://i.imgur.com/GtTnHod.jpeg)
 

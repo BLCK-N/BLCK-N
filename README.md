@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Luckiest+Guy&size=34&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=%3E+Whoami" alt="Typing SVG" />
+</p>
  <img align="center" src="https://i.imgur.com/Bfb8vrC.png"/>
 𖣂
 <img align="center" src="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true"/>

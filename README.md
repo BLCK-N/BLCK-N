@@ -7,7 +7,7 @@
 
 ### ᵂᵉˡᶜᵒᵐᵉ ᵗᵒ ᵐʸ ᵖʳᵒᶠⁱˡᵉ
 
-· 𝓘'𝓶 **人を信じよ、** 
+· 🇮 '🇲  **人を信じよ、** 
 
 · A͢ d͢e͢v͢e͢l͢o͢p͢e͢r͢ p͢a͢s͢s͢i͢o͢n͢a͢t͢e͢ a͢b͢o͢u͢t͢ c͢r͢e͢a͢t͢i͢n͢g͢ o͢r͢i͢g͢i͢n͢a͢l͢ s͢c͢r͢i͢p͢t͢s͢ a͢n͢d͢ p͢r͢o͢j͢e͢c͢t͢s͢ ·
 

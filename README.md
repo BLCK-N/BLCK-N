@@ -19,3 +19,5 @@ Je suis **BLCK-N**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 ---
+## Contributes / Commits.
+![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)

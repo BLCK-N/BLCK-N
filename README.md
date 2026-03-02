@@ -1,6 +1,7 @@
 <img align="center" src="https://i.imgur.com/ZoU0iWH.jpeg"/>
 𖣂
 <img align="center" src="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true"/>
+<img align="center" src="https://camo.githubusercontent.com/342e06e1fbbafd494eb7c114f9786fd4a88ae4637959cabed8f4c0bf6833c119/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e656b6f6379616e3f7468656d653d72756c653334"/>
 
 ---
 

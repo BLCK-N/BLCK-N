@@ -14,7 +14,7 @@
 
 ---
 
-### ⚙️ Technologies que j’utilise
+### ⚙️ 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐮𝐬𝐞
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -22,7 +22,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 ---
-## C̶͢o̶͢n̶͢t̶͢r̶͢i̶͢b̶͢u̶͢t̶͢e̶͢s̶͢ ̶/̶ ̶C̶͢o̶͢m̶͢m̶͢i̶͢t̶͢s̶͢.
+## 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐬 / 𝐂𝐨𝐦𝐦𝐢𝐭𝐬
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ## D̶̶͢o̶̶͢n̶̶͢'̶t̶̶͢ ̶p̶̶͢l̶̶͢a̶̶͢y̶̶͢ ̶w̶̶͢i̶̶͢t̶̶͢h̶̶͢ ̶m̶̶͢e̶̶͢ !

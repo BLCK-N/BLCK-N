@@ -1,4 +1,4 @@
-<img align="center" src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/vQ6PSZL" data-context="false" ><a href="//imgur.com/a/vQ6PSZL"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>"/>
+<img align="center" src="https://imgur.com/a/vQ6PSZL"/>
 𖣂
 <img align="center" src="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true"/>
 

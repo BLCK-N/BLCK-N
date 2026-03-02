@@ -1,5 +1,4 @@
-<img align="center" src="![Uploading 0d64e630-38aa-4381-ba9f-7f6c8a582fd8.png…]()
-"/>
+<img align="center" src="https://imgur.com/a/vQ6PSZL"/>
 𖣂
 <img align="center" src="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true"/>
 

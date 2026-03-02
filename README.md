@@ -23,6 +23,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 ## 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐬 / 𝐂𝐨𝐦𝐦𝐢𝐭𝐬

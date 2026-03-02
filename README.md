@@ -23,9 +23,9 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 ---
-## Contributes / Commits.
+## C̶o̶n̶t̶r̶i̶b̶u̶t̶e̶s̶ ̶/̶ ̶C̶o̶m̶m̶i̶t̶s̶.
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-## Don't play with me !
+## D̶̶͢o̶̶͢n̶̶͢'̶t̶̶͢ ̶p̶̶͢l̶̶͢a̶̶͢y̶̶͢ ̶w̶̶͢i̶̶͢t̶̶͢h̶̶͢ ̶m̶̶͢e̶̶͢ !
 ![sponsors](https://i.imgur.com/1oPMDMI.png)
 

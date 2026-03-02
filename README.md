@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=&pause=1000&color=F7F7F7&width=435&lines=%E1%B4%B0%E1%B5%92%E2%81%BF'%E1%B5%97+%E1%B5%96%CB%A1%E1%B5%83%CA%B8+%CA%B7%E2%81%B1%E1%B5%97%CA%B0+%E1%B6%A0%E2%81%B1%CA%B3%E1%B5%89+%CA%B8%E1%B5%92%E1%B5%98+%E1%B5%90%E2%81%B1%E1%B5%8D%CA%B0%E1%B5%97+%E1%B5%8D%E1%B5%89%E1%B5%97+%E1%B5%87%E1%B5%98%CA%B3%E2%81%BF%E1%B5%89%E1%B5%88)](https://git.io/typing-svg)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Luckiest+Guy&size=34&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=%3E+Whoami" alt="Typing SVG" />
 </p>
  <img align="center" src="https://i.imgur.com/Bfb8vrC.png"/>
 𖣂

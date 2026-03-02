@@ -23,7 +23,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 ---
-## C̶o̶n̶t̶r̶i̶b̶u̶t̶e̶s̶ ̶/̶ ̶C̶o̶m̶m̶i̶t̶s̶.
+## C̶͢o̶͢n̶͢t̶͢r̶͢i̶͢b̶͢u̶͢t̶͢e̶͢s̶͢ ̶/̶ ̶C̶͢o̶͢m̶͢m̶͢i̶͢t̶͢s̶͢.
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ## D̶̶͢o̶̶͢n̶̶͢'̶t̶̶͢ ̶p̶̶͢l̶̶͢a̶̶͢y̶̶͢ ̶w̶̶͢i̶̶͢t̶̶͢h̶̶͢ ̶m̶̶͢e̶̶͢ !

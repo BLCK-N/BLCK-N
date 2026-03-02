@@ -8,9 +8,9 @@
 
 · 🇮 '🇲     **人を信じよ、** · 
 
-· A͢ d͢e͢v͢e͢l͢o͢p͢e͢r͢ p͢a͢s͢s͢i͢o͢n͢a͢t͢e͢ a͢b͢o͢u͢t͢ c͢r͢e͢a͢t͢i͢n͢g͢ o͢r͢i͢g͢i͢n͢a͢l͢ s͢c͢r͢i͢p͢t͢s͢ a͢n͢d͢ p͢r͢o͢j͢e͢c͢t͢s͢ ·
+·  A͢ d͢e͢v͢e͢l͢o͢p͢e͢r͢ p͢a͢s͢s͢i͢o͢n͢a͢t͢e͢ a͢b͢o͢u͢t͢ c͢r͢e͢a͢t͢i͢n͢g͢ o͢r͢i͢g͢i͢n͢a͢l͢ s͢c͢r͢i͢p͢t͢s͢ a͢n͢d͢ p͢r͢o͢j͢e͢c͢t͢s͢ ·
 
-· I͢ l͢o͢v͢e͢ c͢o͢d͢i͢n͢g͢, a͢n͢d͢ t͢e͢c͢h͢n͢i͢c͢a͢l͢ c͢h͢a͢l͢l͢e͢n͢g͢e͢s͢
+·  𝐈 𝐥𝐨𝐯𝐞 𝐜𝐨𝐝𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬
 
 ---
 

@@ -23,7 +23,7 @@
 
 ---
 ## 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐬 / 𝐂𝐨𝐦𝐦𝐢𝐭𝐬
-![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) ![github contribution grid snake animation](https://camo.githubusercontent.com/342e06e1fbbafd494eb7c114f9786fd4a88ae4637959cabed8f4c0bf6833c119/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e656b6f6379616e3f7468656d653d72756c653334) 
+![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only/https://camo.githubusercontent.com/342e06e1fbbafd494eb7c114f9786fd4a88ae4637959cabed8f4c0bf6833c119/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e656b6f6379616e3f7468656d653d72756c653334) 
 
 ## D̶̶͢o̶̶͢n̶̶͢'̶t̶̶͢ ̶p̶̶͢l̶̶͢a̶̶͢y̶̶͢ ̶w̶̶͢i̶̶͢t̶̶͢h̶̶͢ ̶m̶̶͢e̶̶͢ !
 ![sponsors](https://i.imgur.com/1oPMDMI.png)

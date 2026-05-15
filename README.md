@@ -58,3 +58,16 @@
 
 <h2 align="center"> - ᴅɪꜱᴄᴏʀᴅ -  </h2>
 
+<p align="center">
+  <a href="">
+    <img src="https://i.imgur.com/kN4HExB.gif" width="260"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="LIEN_INVITATION_DISCORD">
+    <img src="https://img.shields.io/badge/BLACK%20NOCHE-%232C2F33.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+

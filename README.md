@@ -19,6 +19,7 @@
 
 ·  𝐂𝐫𝐚𝐜𝐤𝐞𝐫 (.𝐬𝐯𝐛 .𝐨𝐩𝐤) | 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | ·
 
+##    ────────────────────────────────────────────────────────
 ---
 <h3 align="left">⚙️ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h3>
 <p align="left">
@@ -41,7 +42,7 @@
 
 ---
   
-##    ────────────────────────────────────────────────────────
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ##           ⛧ 𝐛𝐥𝐚𝐜𝐤 𝐧𝐨𝐜𝐡𝐞 ⛧

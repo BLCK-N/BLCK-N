@@ -17,7 +17,7 @@
 </p>
 
 
- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 <h3 align="center">⚙ Languages and Tools:</h3>
 <p align="center">

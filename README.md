@@ -41,8 +41,7 @@
 
 ---
   
-##                                       ‎𝄃𝄂𝄂𝄃𝄂𝄂𝄃𝄃𝄂𝄂‎𝄃𝄂𝄂𝄃𝄃𝄂𝄂‎𝄃𝄂𝄂𝄂𝄂
-
+##    ‎𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂‎𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂                                   -
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ##           ⛧ 𝐛𝐥𝐚𝐜𝐤 𝐧𝐨𝐜𝐡𝐞 ⛧

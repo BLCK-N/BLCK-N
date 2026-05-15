@@ -34,6 +34,25 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=ffffff&height=20&section=footer"/>
 
+<div align="center">
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+  <tr>
+    <td align="center" width="280" style="padding:20px;">
+      <img src="TON_AVATAR.jpg" width="170" style="border-radius:50%;border:2px solid white;filter:grayscale(100%)"/>
+      <br/><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&center=true&width=200&lines=⛧+/@+⛧;BLCK-N;everywhere+♡" alt="Typing SVG"/>
+    </td>
+    <td align="left" width="500" style="padding:20px;border-left:1px solid #ffffff30;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=FFFFFF&width=440&lines=·+I+am+:+/@;·+Dev+%26+Control+of+systems+%26+exploits+·;·+I+love+coding+%26+technical+challenges+·;·+Full-Stack+%7C+Malware+Dev+%7C+Data+Checker+·;·+Cracker+(.svb+.opk)+%7C+Web+Developer+·" alt="Typing SVG"/>
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---

@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/2AzQ2ZFRqr">
-    <img src="https://img.shields.io/badge/black%20noche-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="LIEN_INVITATION_DISCORD">
+    <img src="https://img.shields.io/badge/BLACK%20NOCHE-%232C2F33.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>

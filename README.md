@@ -64,18 +64,4 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="LIEN_INVITATION_DISCORD">
-    <img src="https://img.shields.io/badge/BLACK%20NOCHE-%232C2F33.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://0v1.life/poupee.png.png" width="400"/>
-</p>
-
-<p align="center">Now everyone can be happy. ✦ ✦ ✦ ✦ ✦</p>
-
-<p align="center">
-  <a href="https://0v1.life/">𖤐</a>
-</p>

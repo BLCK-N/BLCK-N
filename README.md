@@ -50,7 +50,7 @@
 ## ✦ black noche ✦
 
 <p align="center">
-  <a href="LIEN_INVITATION_DISCORD">
+  <a href="">
     <img src="ttps://i.imgur.com/kN4HExB.gif" width="260"/>
   </a>
 </p>
@@ -60,4 +60,3 @@
     <img src="https://img.shields.io/badge/black%20noche-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
- ---

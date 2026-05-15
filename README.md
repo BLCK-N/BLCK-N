@@ -39,7 +39,7 @@
 </p>
 
 
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0d0d0d,ffffff&height=50&reversal=true"/>
+ je veut comme ca <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=ffffff&height=50"/> mais de  l autre cote
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 

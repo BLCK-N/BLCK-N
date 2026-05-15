@@ -6,17 +6,12 @@
 <img align="center" src="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true"/>
 
 ---
-
 <p align="center">
-<b>· I am: /@</b><br/><br/>
-<b>· A development and testing program for systems and operating systems ·</b><br/><br/>
-
-<b>· I love coding and technical challenges ·</b><br/><br/>
-
-<b>· Full-Stack Information Data Checker | Malware Developer | ·</b><br/><br/>
-
-<b>· Cracker (.svb .opk) | Full-Stack Web Developer | ·</b>
-
+  <b>· I am : /@</b><br/><br/>
+  <b>· A development and control program for systems and exploitation programs ·</b><br/><br/>
+  <b>· I love coding, and technical challenges ·</b><br/><br/>
+  <b>· Full-Stack Info Data Checker | Malware Dev | ·</b><br/><br/>
+  <b>· Cracker (.svb .opk) | Full-Stack Web Developer | ·</b>
 </p>
 
 

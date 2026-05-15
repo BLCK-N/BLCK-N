@@ -47,7 +47,7 @@
 
 ---
 
-<h2 align="center">✦ Nuit noire ✦</h2>
+<h2 align="center">✦ ♡⃛ ♡⃛ ♡⃛✦</h2>
 
 <p align="center">
   <a href="">

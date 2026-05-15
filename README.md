@@ -41,7 +41,7 @@
 </p>
 
 ---
- ##   ‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎𖤐‎
+ ##   ‎ᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎᵎ!ᵎ‎
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 

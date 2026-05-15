@@ -17,7 +17,7 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0,000000,1a1a1a&height=3"/>
 
 <h3 align="center">⚙ Languages and Tools:</h3>
 <p align="center">

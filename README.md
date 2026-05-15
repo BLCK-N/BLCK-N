@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <a href="https://i.imgur.com/kN4MExB.gif">sponsors</a>
+  <a href="https://i.imgur.com/kN4MExB.gif"></a>
 </p>
 
  

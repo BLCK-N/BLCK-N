@@ -47,7 +47,7 @@
 
 ---
 
-<h2 align="center"> ♯ ᴅɪꜱᴄᴏʀᴅ ♯ </h2>
+<h2 align="center"> - ᴅɪꜱᴄᴏʀᴅ -  </h2>
 
 <p align="center">
   <a href="">

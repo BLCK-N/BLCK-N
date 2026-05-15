@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true"/>
 </p>
----
+
 <p align="center">
   <b>· I am : /@</b><br/><br/>
   <b>· A development and control program for systems and exploitation programs ·</b><br/><br/>
@@ -38,7 +38,7 @@
   </a>
 </p>
 
----
+
  ##   ‎▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)

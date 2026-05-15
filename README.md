@@ -8,17 +8,19 @@
   <img src="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true"/>
 </p>
 
-<table align="center">
+<table align="center" border="0" cellpadding="10">
   <tr>
-    <td align="center" width="300">
-      <img src="TON_AVATAR.jpg" width="200" style="border-radius: 50%"/>
+    <td align="center" width="280">
+      <img src="TON_AVATAR.jpg" width="180" style="border-radius:50%;border:2px solid white"/>
+      <br/>
+      <h3>⛧ /@ ⛧</h3>
     </td>
-    <td align="left" width="400">
-      <b>· I am : /@</b><br/><br/>
-      <b>· A development and control program for systems and exploitation programs ·</b><br/><br/>
-      <b>· I love coding, and technical challenges ·</b><br/><br/>
-      <b>· Full-Stack Info Data Checker | Malware Dev | ·</b><br/><br/>
-      <b>· Cracker (.svb .opk) | Full-Stack Web Developer | ·</b>
+    <td align="left" width="450">
+      <h3>· I am : /@</h3>
+      <h3>· A development and control program<br/>for systems and exploitation programs ·</h3>
+      <h3>· I love coding, and technical challenges ·</h3>
+      <h3>· Full-Stack Info Data Checker | Malware Dev | ·</h3>
+      <h3>· Cracker (.svb .opk) | Full-Stack Web Developer | ·</h3>
     </td>
   </tr>
 </table>

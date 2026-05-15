@@ -17,7 +17,7 @@
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0,000000,1a1a1a&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=ffffff&height=40"/>
 
 <h3 align="center">⚙ Languages and Tools:</h3>
 <p align="center">

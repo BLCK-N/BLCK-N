@@ -45,8 +45,15 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-##           ⛧ 𝐛𝐥𝐚𝐜𝐤 𝐧𝐨𝐜𝐡𝐞 ⛧
-  ![sponsors](https://i.imgur.com/kN4HExB.gif)
+---
+## ✦ black noche ✦
 
+<p align="center">
+  <img src="https://i.imgur.com/kN4HExB.gif" width="260"/>
+</p>
+
+<p align="center">
+  <a href="https://i.imgur.com/kN4MExB.gif">sponsors</a>
+</p>
 
  

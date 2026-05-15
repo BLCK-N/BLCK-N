@@ -47,10 +47,10 @@
     <td align="left" valign="middle" width="500" style="padding:20px;border-left:1px solid #ffffff30;">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=FFFFFF&width=440&lines=·+I+am+:+/@;·+Dev+%26+Control+of+systems+%26+exploits+·;·+I+love+coding+%26+technical+challenges+·;·+Full-Stack+%7C+Malware+Dev+%7C+Data+Checker+·;·+Cracker+(.svb+.opk)+%7C+Web+Developer+·" alt=""/>
       <br/><br/>
-      <img src="https://streak-stats.demolab.com?user=BLCK-N&theme=dark&hide_border=true&background=0d0d0d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff"/>
-    </td>
-  </tr>
-</table>
+      <div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/Total_Contributions-377-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current_Streak-14-red?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Longest_Streak-17-brightgreen?style=for-the-badge" />
 </div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)

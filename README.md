@@ -8,13 +8,20 @@
   <img src="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true"/>
 </p>
 
-<p align="center">
-  <b>· 𝐈 𝐚𝐦 : /@</b><br/><br/>
-  <b>· 𝐀 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐜𝐨𝐧𝐭𝐫𝐨𝐥 𝐩𝐫𝐨𝐠𝐫𝐚𝐦 𝐟𝐨𝐫 𝐬𝐲𝐬𝐭𝐞𝐦𝐬 𝐚𝐧𝐝 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐚𝐭𝐢𝐨𝐧 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐬 ·</b><br/><br/>
-  <b>· 𝐈 𝐥𝐨𝐯𝐞 𝐜𝐨𝐝𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬 ·</b><br/><br/>
-  <b>· 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐈𝐧𝐟𝐨 𝐃𝐚𝐭𝐚 𝐂𝐡𝐞𝐜𝐤𝐞𝐫 | 𝐌𝐚𝐥𝐰𝐚𝐫𝐞 𝐃𝐞𝐯 | ·</b><br/><br/>
-  <b>· 𝐂𝐫𝐚𝐜𝐤𝐞𝐫 (.𝐬𝐯𝐛 .𝐨𝐩𝐤) | 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | ·</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <img src="TON_AVATAR.jpg" width="200" style="border-radius: 50%"/>
+    </td>
+    <td align="left" width="400">
+      <b>· I am : /@</b><br/><br/>
+      <b>· A development and control program for systems and exploitation programs ·</b><br/><br/>
+      <b>· I love coding, and technical challenges ·</b><br/><br/>
+      <b>· Full-Stack Info Data Checker | Malware Dev | ·</b><br/><br/>
+      <b>· Cracker (.svb .opk) | Full-Stack Web Developer | ·</b>
+    </td>
+  </tr>
+</table>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=ffffff&height=20"/>

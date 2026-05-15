@@ -47,7 +47,7 @@
     <td align="left" valign="middle" width="500" style="padding:20px;border-left:1px solid #ffffff30;">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=FFFFFF&width=440&lines=·+I+am+:+/@;·+Dev+%26+Control+of+systems+%26+exploits+·;·+I+love+coding+%26+technical+challenges+·;·+Full-Stack+%7C+Malware+Dev+%7C+Data+Checker+·;·+Cracker+(.svb+.opk)+%7C+Web+Developer+·" alt=""/>
       <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BLCK-N&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreak=14&longestStreak=17" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=BLCK-N&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreak=14&longestStreak=17&v=1" />
     </td>
   </tr>
 </table>

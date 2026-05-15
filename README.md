@@ -45,84 +45,8 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-  <!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>black noche</title>
-  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap" rel="stylesheet"/>
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
+##           ⛧ 𝐛𝐥𝐚𝐜𝐤 𝐧𝐨𝐜𝐡𝐞 ⛧
+  ![sponsors](https://i.imgur.com/kN4HExB.gif)
 
-    body {
-      background: #0d0d14;
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      font-family: 'Cinzel', serif;
-    }
-
-    .bn-title {
-      color: #e8e0ff;
-      font-size: 22px;
-      font-weight: 700;
-      letter-spacing: 4px;
-      text-align: center;
-      margin-bottom: 22px;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
-
-    .bn-title .star {
-      font-family: sans-serif;
-      font-size: 18px;
-      color: #a89ad4;
-    }
-
-    .bn-img-wrap {
-      width: 260px;
-      height: 260px;
-      border-radius: 8px;
-      overflow: hidden;
-      border: 1px solid #2a2040;
-    }
-
-    .bn-img-wrap img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    }
-
-    .bn-sponsors {
-      margin-top: 20px;
-      color: #6b5fa0;
-      font-family: sans-serif;
-      font-size: 12px;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-    }
-  </style>
-</head>
-<body>
-
-  <div class="bn-title">
-    <span class="star">⛧</span>
-    black noche
-    <span class="star">⛧</span>
-  </div>
-
-  <div class="bn-img-wrap">
-    <img src="https://i.imgur.com/kN4HExB.gif" alt="black noche artwork" />
-  </div>
-
-  <div class="bn-sponsors">sponsors</div>
-
-</body>
-</html>
 
  

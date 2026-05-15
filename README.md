@@ -58,12 +58,3 @@
 
 <h2 align="center"> - ᴅɪꜱᴄᴏʀᴅ -  </h2>
 
-<p align="center">
-  <a href="">
-    <img src="https://i.imgur.com/kN4HExB.gif" width="260"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/zII5Oyt.gif" width="300"/>
-</p>

@@ -50,11 +50,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Total_Contributions-377-orange?style=flat-square&logo=github&labelColor=0d1117&color=0d1117 | https://img.shields.io/badge/Current_Streak-14-white?style=flat-square&logo=git&labelColor=0d1117&color=0d1117 | https://img.shields.io/badge/Longest_Streak-17-white?style=flat-square&labelColor=0d1117&color=0d1117">
   <img src="https://img.shields.io/badge/377_Contributions___14_Current_Streak___17_Longest_Streak-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Streak Stats">
-</picture>
-    </td>
-  </tr>
-</table>
-</div>      
+</picture>    
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 

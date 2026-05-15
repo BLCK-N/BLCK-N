@@ -39,7 +39,7 @@
 </p>
 
 
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=60&section=header"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0d0d0d,ffffff&height=50&reversal=true"/>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 

@@ -8,12 +8,17 @@
 ---
 
 <p align="center">
-  <b>· Je suis : /@</b><br/><br/>
-  <b>· Un programme de développement et de contrôle des systèmes et programmes d'exploitation ·</b><br/><br/>
-  <b>· I love coding, and technical challenges ·</b><br/><br/>
-  <b>· Full-Stack Info Data Checker | Malware Dev | ·</b><br/><br/>
-  <b>· Cracker (.svb .opk) | Full-Stack Web Developer | ·</b>
+<b>· I am: /@</b><br/><br/>
+<b>· A development and testing program for systems and operating systems ·</b><br/><br/>
+
+<b>· I love coding and technical challenges ·</b><br/><br/>
+
+<b>· Full-Stack Information Data Checker | Malware Developer | ·</b><br/><br/>
+
+<b>· Cracker (.svb .opk) | Full-Stack Web Developer | ·</b>
+
 </p>
+
 
 ##    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ---

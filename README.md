@@ -5,8 +5,9 @@
  <img align="center" src="https://i.imgur.com/Qw1fUue.jpeg"/>
 
 𖣂
-<img align="center" src="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true"/>
-
+<p align="center">
+  <img src="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true"/>
+</p>
 ---
 <p align="center">
   <b>· I am : /@</b><br/><br/>

@@ -7,17 +7,13 @@
 
 ---
 
-
-
-·  𝐈'𝐌    :    **/@**  
-
-·  𝐀 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐨𝐫𝐢𝐠𝐢𝐧𝐚𝐥 𝐬𝐜𝐫𝐢𝐩𝐭𝐬 𝐚𝐧𝐝 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 ·
-
-·  𝐈 𝐥𝐨𝐯𝐞 𝐜𝐨𝐝𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬 ·
-
-·  𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐈𝐧𝐟𝐨 𝐃𝐚𝐭𝐚 𝐂𝐡𝐞𝐜𝐤𝐞𝐫 | 𝐌𝐚𝐥𝐰𝐚𝐫𝐞 𝐃𝐞𝐯 | ·
-
-·  𝐂𝐫𝐚𝐜𝐤𝐞𝐫 (.𝐬𝐯𝐛 .𝐨𝐩𝐤) | 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | ·
+<p align="center">
+  <b>· Je suis : /@</b><br/><br/>
+  <b>· Un programme de développement et de contrôle des systèmes et programmes d'exploitation ·</b><br/><br/>
+  <b>· I love coding, and technical challenges ·</b><br/><br/>
+  <b>· Full-Stack Info Data Checker | Malware Dev | ·</b><br/><br/>
+  <b>· Cracker (.svb .opk) | Full-Stack Web Developer | ·</b>
+</p>
 
 ##    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ---

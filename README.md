@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="">
-    <img src="ttps://i.imgur.com/kN4HExB.gif" width="260"/>
+    <img src="https://i.imgur.com/kN4HExB.gif" width="260"/>
   </a>
 </p>
 

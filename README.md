@@ -40,7 +40,7 @@
   <tr>
     <td align="center" valign="middle" width="280" style="padding:20px;">
       <br/><br/><br/>
-      <img src="https://imgur.com/gallery/sdad-jto9JfL" width="170" style="border-radius:50%;border:2px solid white;filter:grayscale(100%)"/>
+      <img src="https://i.imgur.com/BGyreht.png" width="170" style="border-radius:50%;border:2px solid white;filter:grayscale(100%)"/>
       <br/><br/>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&center=true&width=200&lines=*+/+@+*+;BLCK-N;everywhere+0" alt=""/>
     </td>

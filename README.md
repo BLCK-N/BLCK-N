@@ -45,7 +45,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&center=true&width=200&lines=" alt=""/>
     </td>
     <td align="left" valign="middle" width="500" style="padding:20px;border-left:1px solid #ffffff30;">
-      <img src="https://streak-stats.demolab.com/?user=BLCK-N&theme=dark&hide_border=true&background=0d0d0d&stroke=ffffff&dates=ffffff&text=ffffff&type=svg"/>
+      <img src="https://streak-stats.demolab.com/?user=BLCK-N"/>
       <br/><br/>
     </td>
     </tr>

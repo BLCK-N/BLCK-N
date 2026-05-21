@@ -46,7 +46,8 @@
     </td>
 <td align="left" valign="middle" width="500" style="padding:20px;border-left:1px solid #ffffff30;">
     <img src="https://streak-stats.demolab.com?user=BLCK-N&theme=dark&hide_border=true&background=0d0d0d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff"/>
-    <br/><br/>
+   <img src="https://ghchart.rshah.org/BLCK-N" width="440"/>
+  <br/><br/>
 </td>
 
   </tr>

@@ -40,15 +40,14 @@
   <tr>
     <td align="center" valign="middle" width="280" style="padding:20px;">
       <br/><br/><br/>
-      <img src="https://i.imgur.com/A2IRgVB.png" width="170" style="border-radius:50%;border:2px solid white;filter:grayscale(100%)"/>
+      <img src="https://i.imgur.com/AZIRgVB.png" width="170" style="border-radius:50%;border:2px solid white;filter:grayscale(100%)"/>
       <br/><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&center=true&width=200&lines=⛧+/@+⛧;BLCK-N;everywhere+♡" alt=""/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&center=true&width=200&lines=*+/+@+*+;BLCK-N;everywhere+0" alt=""/>
     </td>
-<td align="left" valign="middle" width="500" style="padding:20px;border-left:1px solid #ffffff30;">
-    <img src="https://streak-stats.demolab.com/?user=BLCK-N&theme=dark&hide_border=true&background=0d0d0d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&type=svg"/>
-    <br/><br/>
-</td>
-
+    <td align="left" valign="middle" width="500" style="padding:20px;border-left:1px solid #ffffff30;">
+      <img src="https://streak-stats.demolab.com/?user=BLCK-N&theme=dark&hide_border=true&background=0d0d0d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&type=svg"/>
+      <br/><br/>
+    </td>
   </tr>
 </table>
 </div>   

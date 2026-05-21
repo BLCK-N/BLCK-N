@@ -45,7 +45,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&center=true&width=200&lines=⛧+/@+⛧;BLCK-N;everywhere+♡" alt=""/>
     </td>
 <td align="left" valign="middle" width="500" style="padding:20px;border-left:1px solid #ffffff30;">
-   <img src="https://img.shields.io/github/commit-activity/t/BLCK-N/BLCK-N?style=for-the-badge&color=ffffff&labelColor=0d0d0d&label=Total+Commits"/>
+   <img src="https://raw.githubusercontent.com/BLCK-N/BLCK-N/main/github-metrics.svg"/>
   <br/><br/>
 </td>
 

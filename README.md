@@ -13,7 +13,6 @@
 ‎ 
 <img width="900%" src="https://capsule-render.vercel.app/api?type=slice&color=ffffff&height=20"/>
 ‎ 
-‎ 
 <h3 align="center">⚙ Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">

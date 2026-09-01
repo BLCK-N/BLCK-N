@@ -3,7 +3,7 @@
 </p>
   
 </p>
- <img align="center" src="https://i.imgur.com/NXEk4Hx.png" width="1000"/>
+ <img align="center" src="https://i.imgur.com/2dFAXwL.png" width="1000"/>
 
 <p align="center">
   <img src="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true"/>

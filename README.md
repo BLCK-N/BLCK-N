@@ -9,9 +9,8 @@
 <p align="center">
   <img src="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true"/>
 </p>
-
-
-
+‎
+‎ 
 <img width="900%" src="https://capsule-render.vercel.app/api?type=slice&color=ffffff&height=20"/>
 
 <h3 align="center">⚙ Languages and Tools:</h3>
